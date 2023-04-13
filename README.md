@@ -7,13 +7,13 @@
 
 - 👯 I’m looking to collaborate on **Youtube**
 
-- 👨‍💻 All of my projects are available at [https://mehedihanik.github.io/Portfolio-project/](https://mehedihanik.github.io/Portfolio-project/)
+- 👨‍💻 All of my projects are available at [https://mehedihanik.github.io/Portfolio-project/](Portfolio)
 
 - 💬 Ask me about **JavaScript | React | NextJS**
 
 - 📫 How to reach me **mhanik.contact@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/mehedihanik/](https://www.linkedin.com/in/mehedihanik/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/mehedihanik/](Mehedi Hasan Anik)
 
 - ⚡ Fun fact **🧐**
 
