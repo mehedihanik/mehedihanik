@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mehedi Hassan Anik</h1>
 <h3 align="center">A passionate Front-End developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mehedihanik&label=Profile%20views&color=0e75b6&style=flat" alt="mehedihanik" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehedihanik" alt="mehedihanik" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/mehedihanik" target="blank"><img src="https://img.shields.io/twitter/follow/mehedihanik?logo=twitter&style=for-the-badge" alt="mehedihanik" /></a> </p>
-
 - 🔭 I’m currently working on **Freelace Devloper**
 
 - 🌱 I’m currently learning **JavaScrript, React**
@@ -46,3 +40,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehedihanik&show_icons=true&locale=en" alt="mehedihanik" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehedihanik&" alt="mehedihanik" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mehedihanik&label=Profile%20views&color=0e75b6&style=flat" alt="mehedihanik" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehedihanik" alt="mehedihanik" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/mehedihanik" target="blank"><img src="https://img.shields.io/twitter/follow/mehedihanik?logo=twitter&style=for-the-badge" alt="mehedihanik" /></a> </p>
